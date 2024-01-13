@@ -1,0 +1,172 @@
+date,type,breakdown,transaction_volume,transaction_nominal
+1/1/2019,Credit,Cash Advance,749834,8.28E+11
+1/2/2019,Credit,Cash Advance,698171,7.62E+11
+1/3/2019,Credit,Cash Advance,718555,8.07E+11
+1/4/2019,Credit,Cash Advance,749378,8.29E+11
+1/5/2019,Credit,Cash Advance,662725,7.87E+11
+1/6/2019,Credit,Cash Advance,624891,7.15E+11
+1/7/2019,Credit,Cash Advance,762537,8.64E+11
+1/8/2019,Credit,Cash Advance,769523,8.53E+11
+1/9/2019,Credit,Cash Advance,785582,8.67E+11
+1/10/2019,Credit,Cash Advance,834145,9.15E+11
+1/11/2019,Credit,Cash Advance,807482,8.89E+11
+1/12/2019,Credit,Cash Advance,800507,9.23E+11
+1/1/2020,Credit,Cash Advance,835704,9.35E+11
+1/2/2020,Credit,Cash Advance,787177,8.65E+11
+1/3/2020,Credit,Cash Advance,792192,8.93E+11
+1/4/2020,Credit,Cash Advance,605611,6.98E+11
+1/5/2020,Credit,Cash Advance,386296,4.92E+11
+1/6/2020,Credit,Cash Advance,441941,5.15E+11
+1/7/2020,Credit,Cash Advance,471336,5.32E+11
+1/8/2020,Credit,Cash Advance,484783,5.35E+11
+1/9/2020,Credit,Cash Advance,427074,4.74E+11
+1/10/2020,Credit,Cash Advance,412267,4.60E+11
+1/11/2020,Credit,Cash Advance,440817,5.00E+11
+1/12/2020,Credit,Cash Advance,387509,4.51E+11
+1/1/2021,Credit,Cash Advance,403105,4.63E+11
+1/2/2021,Credit,Cash Advance,386691,4.43E+11
+1/3/2021,Credit,Cash Advance,456152,6.54E+11
+1/4/2021,Credit,Cash Advance,406225,5.94E+11
+1/5/2021,Credit,Cash Advance,341797,4.96E+11
+1/6/2021,Credit,Cash Advance,394281,5.76E+11
+1/7/2021,Credit,Cash Advance,380916,5.33E+11
+1/8/2021,Credit,Cash Advance,423413,5.92E+11
+1/9/2021,Credit,Cash Advance,412452,6.12E+11
+1/10/2021,Credit,Cash Advance,419543,6.05E+11
+1/11/2021,Credit,Cash Advance,420819,6.09E+11
+1/12/2021,Credit,Cash Advance,404836,5.90E+11
+1/1/2022,Credit,Cash Advance,431893,6.05E+11
+1/2/2022,Credit,Cash Advance,391395,5.43E+11
+1/3/2022,Credit,Cash Advance,461867,6.66E+11
+1/4/2022,Credit,Cash Advance,361332,6.19E+11
+1/5/2022,Credit,Cash Advance,400214,6.08E+11
+1/6/2022,Credit,Cash Advance,425411,6.57E+11
+1/7/2022,Credit,Cash Advance,434684,6.56E+11
+1/8/2022,Credit,Cash Advance,471307,7.11E+11
+1/9/2022,Credit,Cash Advance,460784,6.96E+11
+1/10/2022,Credit,Cash Advance,494649,7.24E+11
+1/11/2022,Credit,Cash Advance,485091,7.10E+11
+1/12/2022,Credit,Cash Advance,461203,7.10E+11
+1/1/2023,Credit,Cash Advance,504937,7.48E+11
+1/2/2023,Credit,Cash Advance,447865,6.88E+11
+1/3/2023,Credit,Cash Advance,467180,7.35E+11
+1/4/2023,Credit,Cash Advance,341227,5.78E+11
+1/5/2023,Credit,Cash Advance,448243,7.35E+11
+1/6/2023,Credit,Cash Advance,416822,6.55E+11
+1/7/2023,Credit,Cash Advance,462096,7.26E+11
+1/8/2023,Credit,Cash Advance,459911,7.12E+11
+1/9/2023,Credit,Cash Advance,448982,7.35E+11
+1/1/2019,Credit,Belanja,28262728,2.72E+13
+1/2/2019,Credit,Belanja,25751338,2.51E+13
+1/3/2019,Credit,Belanja,27511573,2.73E+13
+1/4/2019,Credit,Belanja,28370863,2.70E+13
+1/5/2019,Credit,Belanja,28692191,2.97E+13
+1/6/2019,Credit,Belanja,26495911,2.52E+13
+1/7/2019,Credit,Belanja,29583676,2.90E+13
+1/8/2019,Credit,Belanja,27709986,2.74E+13
+1/9/2019,Credit,Belanja,27753747,2.68E+13
+1/10/2019,Credit,Belanja,29323218,2.84E+13
+1/11/2019,Credit,Belanja,28868750,2.78E+13
+1/12/2019,Credit,Belanja,31924609,3.19E+13
+1/1/2020,Credit,Belanja,29149284,2.77E+13
+1/2/2020,Credit,Belanja,26592304,2.50E+13
+1/3/2020,Credit,Belanja,26376140,2.33E+13
+1/4/2020,Credit,Belanja,18759278,1.53E+13
+1/5/2020,Credit,Belanja,18215328,1.46E+13
+1/6/2020,Credit,Belanja,20448369,1.66E+13
+1/7/2020,Credit,Belanja,21090413,1.75E+13
+1/8/2020,Credit,Belanja,22010067,1.77E+13
+1/9/2020,Credit,Belanja,19918548,1.71E+13
+1/10/2020,Credit,Belanja,19854612,1.68E+13
+1/11/2020,Credit,Belanja,22587109,1.94E+13
+1/12/2020,Credit,Belanja,23208273,2.07E+13
+1/1/2021,Credit,Belanja,20964719,1.78E+13
+1/2/2021,Credit,Belanja,20156074,1.68E+13
+1/3/2021,Credit,Belanja,23859304,2.08E+13
+1/4/2021,Credit,Belanja,22844714,1.94E+13
+1/5/2021,Credit,Belanja,23110137,1.92E+13
+1/6/2021,Credit,Belanja,22827538,1.92E+13
+1/7/2021,Credit,Belanja,20486484,1.66E+13
+1/8/2021,Credit,Belanja,22314589,1.91E+13
+1/9/2021,Credit,Belanja,22720796,1.99E+13
+1/10/2021,Credit,Belanja,24344801,2.08E+13
+1/11/2021,Credit,Belanja,25968946,2.29E+13
+1/12/2021,Credit,Belanja,27453130,2.53E+13
+1/1/2022,Credit,Belanja,25558099,2.30E+13
+1/2/2022,Credit,Belanja,21951975,1.85E+13
+1/3/2022,Credit,Belanja,26907876,2.44E+13
+1/4/2022,Credit,Belanja,24778941,2.38E+13
+1/5/2022,Credit,Belanja,26434103,2.39E+13
+1/6/2022,Credit,Belanja,25877719,2.47E+13
+1/7/2022,Credit,Belanja,26114877,2.46E+13
+1/8/2022,Credit,Belanja,27894983,2.64E+13
+1/9/2022,Credit,Belanja,26606383,2.59E+13
+1/10/2022,Credit,Belanja,27912649,2.63E+13
+1/11/2022,Credit,Belanja,28294265,2.78E+13
+1/12/2022,Credit,Belanja,30242683,3.16E+13
+1/1/2023,Credit,Belanja,30154669,2.99E+13
+1/2/2023,Credit,Belanja,27251713,2.91E+13
+1/3/2023,Credit,Belanja,30251556,3.22E+13
+1/4/2023,Credit,Belanja,28743008,2.89E+13
+1/5/2023,Credit,Belanja,30400681,3.09E+13
+1/6/2023,Credit,Belanja,30126346,3.16E+13
+1/7/2023,Credit,Belanja,32681392,3.39E+13
+1/8/2023,Credit,Belanja,32023010,3.21E+13
+1/9/2023,Credit,Belanja,31573239,3.11E+13
+1/1/2019,Credit,Bill Payment,,
+1/2/2019,Credit,Bill Payment,,
+1/3/2019,Credit,Bill Payment,,
+1/4/2019,Credit,Bill Payment,,
+1/5/2019,Credit,Bill Payment,,
+1/6/2019,Credit,Bill Payment,,
+1/7/2019,Credit,Bill Payment,,
+1/8/2019,Credit,Bill Payment,,
+1/9/2019,Credit,Bill Payment,,
+1/10/2019,Credit,Bill Payment,,
+1/11/2019,Credit,Bill Payment,,
+1/12/2019,Credit,Bill Payment,,
+1/1/2020,Credit,Bill Payment,,
+1/2/2020,Credit,Bill Payment,,
+1/3/2020,Credit,Bill Payment,,
+1/4/2020,Credit,Bill Payment,,
+1/5/2020,Credit,Bill Payment,,
+1/6/2020,Credit,Bill Payment,,
+1/7/2020,Credit,Bill Payment,,
+1/8/2020,Credit,Bill Payment,,
+1/9/2020,Credit,Bill Payment,,
+1/10/2020,Credit,Bill Payment,,
+1/11/2020,Credit,Bill Payment,,
+1/12/2020,Credit,Bill Payment,,
+1/1/2021,Credit,Bill Payment,,
+1/2/2021,Credit,Bill Payment,,
+1/3/2021,Credit,Bill Payment,,
+1/4/2021,Credit,Bill Payment,,
+1/5/2021,Credit,Bill Payment,,
+1/6/2021,Credit,Bill Payment,,
+1/7/2021,Credit,Bill Payment,,
+1/8/2021,Credit,Bill Payment,,
+1/9/2021,Credit,Bill Payment,,
+1/10/2021,Credit,Bill Payment,,
+1/11/2021,Credit,Bill Payment,,
+1/12/2021,Credit,Bill Payment,,
+1/1/2022,Credit,Bill Payment,1605849,1.15E+12
+1/2/2022,Credit,Bill Payment,1827589,1.22E+12
+1/3/2022,Credit,Bill Payment,1664629,1.26E+12
+1/4/2022,Credit,Bill Payment,1547288,1.16E+12
+1/5/2022,Credit,Bill Payment,1525443,1.15E+12
+1/6/2022,Credit,Bill Payment,1623702,1.24E+12
+1/7/2022,Credit,Bill Payment,1580563,1.21E+12
+1/8/2022,Credit,Bill Payment,1586476,1.25E+12
+1/9/2022,Credit,Bill Payment,1553250,1.25E+12
+1/10/2022,Credit,Bill Payment,1486154,1.28E+12
+1/11/2022,Credit,Bill Payment,1426352,1.28E+12
+1/12/2022,Credit,Bill Payment,1484411,1.38E+12
+1/1/2023,Credit,Bill Payment,1490170,1.34E+12
+1/2/2023,Credit,Bill Payment,1488648,1.38E+12
+1/3/2023,Credit,Bill Payment,1467056,1.42E+12
+1/4/2023,Credit,Bill Payment,1383286,1.31E+12
+1/5/2023,Credit,Bill Payment,1350570,1.37E+12
+1/6/2023,Credit,Bill Payment,1327655,1.38E+12
+1/7/2023,Credit,Bill Payment,1386238,1.46E+12
+1/8/2023,Credit,Bill Payment,1392099,1.55E+12
+1/9/2023,Credit,Bill Payment,1345340,1.55E+12

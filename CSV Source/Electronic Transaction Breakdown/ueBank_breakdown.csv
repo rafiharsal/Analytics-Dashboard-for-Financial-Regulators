@@ -1,0 +1,514 @@
+date,type,breakdown,transaction_volume,transaction_nominal
+1/1/2019,UE Bank,Initial,686147,8.66E+10
+1/2/2019,UE Bank,Initial,564725,7.55E+10
+1/3/2019,UE Bank,Initial,555850,8.72E+10
+1/4/2019,UE Bank,Initial,640216,8.43E+10
+1/5/2019,UE Bank,Initial,728760,9.35E+10
+1/6/2019,UE Bank,Initial,804528,1.07E+11
+1/7/2019,UE Bank,Initial,890485,7.32E+10
+1/8/2019,UE Bank,Initial,767404,6.48E+10
+1/9/2019,UE Bank,Initial,773460,6.42E+10
+1/10/2019,UE Bank,Initial,745448,6.03E+10
+1/11/2019,UE Bank,Initial,657965,5.00E+10
+1/12/2019,UE Bank,Initial,682966,5.08E+10
+1/1/2020,UE Bank,Initial,394128,3.19E+10
+1/2/2020,UE Bank,Initial,516674,3.00E+10
+1/3/2020,UE Bank,Initial,353084,2.32E+10
+1/4/2020,UE Bank,Initial,165551,1.57E+10
+1/5/2020,UE Bank,Initial,212742,2.34E+10
+1/6/2020,UE Bank,Initial,291110,2.40E+10
+1/7/2020,UE Bank,Initial,239369,2.58E+10
+1/8/2020,UE Bank,Initial,254755,2.84E+10
+1/9/2020,UE Bank,Initial,262166,3.14E+10
+1/10/2020,UE Bank,Initial,273482,2.83E+10
+1/11/2020,UE Bank,Initial,307607,3.38E+10
+1/12/2020,UE Bank,Initial,369668,3.96E+10
+1/1/2021,UE Bank,Initial,287080,3.10E+10
+1/2/2021,UE Bank,Initial,248441,2.69E+10
+1/3/2021,UE Bank,Initial,409635,3.50E+10
+1/4/2021,UE Bank,Initial,322531,3.40E+10
+1/5/2021,UE Bank,Initial,410405,3.55E+10
+1/6/2021,UE Bank,Initial,363199,4.06E+10
+1/7/2021,UE Bank,Initial,193484,2.25E+10
+1/8/2021,UE Bank,Initial,225974,2.71E+10
+1/9/2021,UE Bank,Initial,278825,2.97E+10
+1/10/2021,UE Bank,Initial,271340,3.32E+10
+1/11/2021,UE Bank,Initial,297910,3.67E+10
+1/12/2021,UE Bank,Initial,357655,3.93E+10
+1/1/2022,UE Bank,Initial,565170,6.45E+10
+1/2/2022,UE Bank,Initial,406414,4.07E+10
+1/3/2022,UE Bank,Initial,358037,3.77E+10
+1/4/2022,UE Bank,Initial,552608,6.61E+10
+1/5/2022,UE Bank,Initial,456105,5.80E+10
+1/6/2022,UE Bank,Initial,544259,5.12E+10
+1/7/2022,UE Bank,Initial,561618,6.23E+10
+1/8/2022,UE Bank,Initial,495687,5.60E+10
+1/9/2022,UE Bank,Initial,578153,6.11E+10
+1/10/2022,UE Bank,Initial,598988,5.96E+10
+1/11/2022,UE Bank,Initial,504811,7.40E+10
+1/12/2022,UE Bank,Initial,731738,7.31E+10
+1/1/2023,UE Bank,Initial,560629,6.00E+10
+1/2/2023,UE Bank,Initial,435842,4.86E+10
+1/3/2023,UE Bank,Initial,466242,5.48E+10
+1/4/2023,UE Bank,Initial,607559,7.73E+10
+1/5/2023,UE Bank,Initial,639826,6.09E+10
+1/6/2023,UE Bank,Initial,463604,5.22E+10
+1/7/2023,UE Bank,Initial,473320,5.78E+10
+1/8/2023,UE Bank,Initial,526694,5.82E+10
+1/9/2023,UE Bank,Initial,540133,5.65E+10
+1/1/2019,UE Bank,Pembayaran,,
+1/2/2019,UE Bank,Pembayaran,,
+1/3/2019,UE Bank,Pembayaran,,
+1/4/2019,UE Bank,Pembayaran,,
+1/5/2019,UE Bank,Pembayaran,,
+1/6/2019,UE Bank,Pembayaran,,
+1/7/2019,UE Bank,Pembayaran,,
+1/8/2019,UE Bank,Pembayaran,,
+1/9/2019,UE Bank,Pembayaran,,
+1/10/2019,UE Bank,Pembayaran,,
+1/11/2019,UE Bank,Pembayaran,,
+1/12/2019,UE Bank,Pembayaran,,
+1/1/2020,UE Bank,Pembayaran,,
+1/2/2020,UE Bank,Pembayaran,,
+1/3/2020,UE Bank,Pembayaran,,
+1/4/2020,UE Bank,Pembayaran,,
+1/5/2020,UE Bank,Pembayaran,,
+1/6/2020,UE Bank,Pembayaran,,
+1/7/2020,UE Bank,Pembayaran,,
+1/8/2020,UE Bank,Pembayaran,,
+1/9/2020,UE Bank,Pembayaran,,
+1/10/2020,UE Bank,Pembayaran,,
+1/11/2020,UE Bank,Pembayaran,,
+1/12/2020,UE Bank,Pembayaran,,
+1/1/2021,UE Bank,Pembayaran,,
+1/2/2021,UE Bank,Pembayaran,,
+1/3/2021,UE Bank,Pembayaran,,
+1/4/2021,UE Bank,Pembayaran,,
+1/5/2021,UE Bank,Pembayaran,,
+1/6/2021,UE Bank,Pembayaran,,
+1/7/2021,UE Bank,Pembayaran,,
+1/8/2021,UE Bank,Pembayaran,,
+1/9/2021,UE Bank,Pembayaran,,
+1/10/2021,UE Bank,Pembayaran,,
+1/11/2021,UE Bank,Pembayaran,,
+1/12/2021,UE Bank,Pembayaran,,
+1/1/2022,UE Bank,Pembayaran,1886539,3.84E+11
+1/2/2022,UE Bank,Pembayaran,118158,8.77E+10
+1/3/2022,UE Bank,Pembayaran,312459,7.11E+10
+1/4/2022,UE Bank,Pembayaran,5273095,1.04E+12
+1/5/2022,UE Bank,Pembayaran,510623,1.08E+11
+1/6/2022,UE Bank,Pembayaran,96997,2.81E+10
+1/7/2022,UE Bank,Pembayaran,64430,6.44E+10
+1/8/2022,UE Bank,Pembayaran,6248945,2.38E+12
+1/9/2022,UE Bank,Pembayaran,12703930,2.38E+12
+1/10/2022,UE Bank,Pembayaran,12235938,1.20E+12
+1/11/2022,UE Bank,Pembayaran,7215006,1.60E+11
+1/12/2022,UE Bank,Pembayaran,6561773,2.83E+10
+1/1/2023,UE Bank,Pembayaran,6541404,2.25E+10
+1/2/2023,UE Bank,Pembayaran,6548133,2.22E+10
+1/3/2023,UE Bank,Pembayaran,4665289,3.03E+11
+1/4/2023,UE Bank,Pembayaran,38828,2.37E+10
+1/5/2023,UE Bank,Pembayaran,40035,2.42E+10
+1/6/2023,UE Bank,Pembayaran,39553,2.32E+10
+1/7/2023,UE Bank,Pembayaran,37101,2.38E+10
+1/8/2023,UE Bank,Pembayaran,37863,2.49E+10
+1/9/2023,UE Bank,Pembayaran,35522,3.55E+10
+1/1/2019,UE Bank,Transfer Rekening,,
+1/2/2019,UE Bank,Transfer Rekening,,
+1/3/2019,UE Bank,Transfer Rekening,,
+1/4/2019,UE Bank,Transfer Rekening,,
+1/5/2019,UE Bank,Transfer Rekening,,
+1/6/2019,UE Bank,Transfer Rekening,,
+1/7/2019,UE Bank,Transfer Rekening,,
+1/8/2019,UE Bank,Transfer Rekening,,
+1/9/2019,UE Bank,Transfer Rekening,,
+1/10/2019,UE Bank,Transfer Rekening,,
+1/11/2019,UE Bank,Transfer Rekening,,
+1/12/2019,UE Bank,Transfer Rekening,,
+1/1/2020,UE Bank,Transfer Rekening,,
+1/2/2020,UE Bank,Transfer Rekening,,
+1/3/2020,UE Bank,Transfer Rekening,,
+1/4/2020,UE Bank,Transfer Rekening,,
+1/5/2020,UE Bank,Transfer Rekening,,
+1/6/2020,UE Bank,Transfer Rekening,,
+1/7/2020,UE Bank,Transfer Rekening,,
+1/8/2020,UE Bank,Transfer Rekening,,
+1/9/2020,UE Bank,Transfer Rekening,,
+1/10/2020,UE Bank,Transfer Rekening,,
+1/11/2020,UE Bank,Transfer Rekening,,
+1/12/2020,UE Bank,Transfer Rekening,,
+1/1/2021,UE Bank,Transfer Rekening,,
+1/2/2021,UE Bank,Transfer Rekening,,
+1/3/2021,UE Bank,Transfer Rekening,,
+1/4/2021,UE Bank,Transfer Rekening,,
+1/5/2021,UE Bank,Transfer Rekening,,
+1/6/2021,UE Bank,Transfer Rekening,,
+1/7/2021,UE Bank,Transfer Rekening,,
+1/8/2021,UE Bank,Transfer Rekening,,
+1/9/2021,UE Bank,Transfer Rekening,,
+1/10/2021,UE Bank,Transfer Rekening,,
+1/11/2021,UE Bank,Transfer Rekening,,
+1/12/2021,UE Bank,Transfer Rekening,,
+1/1/2022,UE Bank,Transfer Rekening,1400273,2.06E+11
+1/2/2022,UE Bank,Transfer Rekening,1232536,1.75E+11
+1/3/2022,UE Bank,Transfer Rekening,1413877,2.06E+11
+1/4/2022,UE Bank,Transfer Rekening,1487909,2.29E+11
+1/5/2022,UE Bank,Transfer Rekening,1595501,2.32E+11
+1/6/2022,UE Bank,Transfer Rekening,1508542,2.20E+11
+1/7/2022,UE Bank,Transfer Rekening,1528341,2.22E+11
+1/8/2022,UE Bank,Transfer Rekening,1610453,2.48E+11
+1/9/2022,UE Bank,Transfer Rekening,1642475,2.54E+11
+1/10/2022,UE Bank,Transfer Rekening,1693201,2.48E+11
+1/11/2022,UE Bank,Transfer Rekening,1703753,2.65E+11
+1/12/2022,UE Bank,Transfer Rekening,1948072,3.19E+11
+1/1/2023,UE Bank,Transfer Rekening,2055719,3.34E+11
+1/2/2023,UE Bank,Transfer Rekening,1793848,2.91E+11
+1/3/2023,UE Bank,Transfer Rekening,1991743,3.34E+11
+1/4/2023,UE Bank,Transfer Rekening,2122892,3.70E+11
+1/5/2023,UE Bank,Transfer Rekening,2080338,3.57E+11
+1/6/2023,UE Bank,Transfer Rekening,2089804,3.64E+11
+1/7/2023,UE Bank,Transfer Rekening,2210746,3.92E+11
+1/8/2023,UE Bank,Transfer Rekening,2247896,3.84E+11
+1/9/2023,UE Bank,Transfer Rekening,2172402,3.76E+11
+1/1/2019,UE Bank,Transfer Pemerintah,,
+1/2/2019,UE Bank,Transfer Pemerintah,,
+1/3/2019,UE Bank,Transfer Pemerintah,,
+1/4/2019,UE Bank,Transfer Pemerintah,,
+1/5/2019,UE Bank,Transfer Pemerintah,,
+1/6/2019,UE Bank,Transfer Pemerintah,,
+1/7/2019,UE Bank,Transfer Pemerintah,,
+1/8/2019,UE Bank,Transfer Pemerintah,,
+1/9/2019,UE Bank,Transfer Pemerintah,,
+1/10/2019,UE Bank,Transfer Pemerintah,,
+1/11/2019,UE Bank,Transfer Pemerintah,,
+1/12/2019,UE Bank,Transfer Pemerintah,,
+1/1/2020,UE Bank,Transfer Pemerintah,,
+1/2/2020,UE Bank,Transfer Pemerintah,,
+1/3/2020,UE Bank,Transfer Pemerintah,,
+1/4/2020,UE Bank,Transfer Pemerintah,,
+1/5/2020,UE Bank,Transfer Pemerintah,,
+1/6/2020,UE Bank,Transfer Pemerintah,,
+1/7/2020,UE Bank,Transfer Pemerintah,,
+1/8/2020,UE Bank,Transfer Pemerintah,,
+1/9/2020,UE Bank,Transfer Pemerintah,,
+1/10/2020,UE Bank,Transfer Pemerintah,,
+1/11/2020,UE Bank,Transfer Pemerintah,,
+1/12/2020,UE Bank,Transfer Pemerintah,,
+1/1/2021,UE Bank,Transfer Pemerintah,,
+1/2/2021,UE Bank,Transfer Pemerintah,,
+1/3/2021,UE Bank,Transfer Pemerintah,,
+1/4/2021,UE Bank,Transfer Pemerintah,,
+1/5/2021,UE Bank,Transfer Pemerintah,,
+1/6/2021,UE Bank,Transfer Pemerintah,,
+1/7/2021,UE Bank,Transfer Pemerintah,,
+1/8/2021,UE Bank,Transfer Pemerintah,,
+1/9/2021,UE Bank,Transfer Pemerintah,,
+1/10/2021,UE Bank,Transfer Pemerintah,,
+1/11/2021,UE Bank,Transfer Pemerintah,,
+1/12/2021,UE Bank,Transfer Pemerintah,,
+1/1/2022,UE Bank,Transfer Pemerintah,9292009,1.86E+14
+1/2/2022,UE Bank,Transfer Pemerintah,9204514,1.85E+14
+1/3/2022,UE Bank,Transfer Pemerintah,6331526,1.27E+14
+1/4/2022,UE Bank,Transfer Pemerintah,5991205,1.2E+14
+1/5/2022,UE Bank,Transfer Pemerintah,,
+1/6/2022,UE Bank,Transfer Pemerintah,,
+1/7/2022,UE Bank,Transfer Pemerintah,,
+1/8/2022,UE Bank,Transfer Pemerintah,6336147,2.53E+14
+1/9/2022,UE Bank,Transfer Pemerintah,6460896,6460896
+1/10/2022,UE Bank,Transfer Pemerintah,6502441,6502441
+1/11/2022,UE Bank,Transfer Pemerintah,6502097,6502097
+1/12/2022,UE Bank,Transfer Pemerintah,6501954,6501954
+1/1/2023,UE Bank,Transfer Pemerintah,6501954,6501954
+1/2/2023,UE Bank,Transfer Pemerintah,6501951,6501951
+1/3/2023,UE Bank,Transfer Pemerintah,4626557,4626557
+1/4/2023,UE Bank,Transfer Pemerintah,,
+1/5/2023,UE Bank,Transfer Pemerintah,,
+1/6/2023,UE Bank,Transfer Pemerintah,,
+1/7/2023,UE Bank,Transfer Pemerintah,,
+1/8/2023,UE Bank,Transfer Pemerintah,,
+1/9/2023,UE Bank,Transfer Pemerintah,,
+1/1/2019,UE Bank,Top Up,18924911,4.40E+13
+1/2/2019,UE Bank,Top Up,19244622,4.16E+13
+1/3/2019,UE Bank,Top Up,20084026,1.69E+13
+1/4/2019,UE Bank,Top Up,20144197,1.39E+13
+1/5/2019,UE Bank,Top Up,22614590,4.77E+13
+1/6/2019,UE Bank,Top Up,23624245,1.06E+13
+1/7/2019,UE Bank,Top Up,22687508,1.20E+13
+1/8/2019,UE Bank,Top Up,19618997,1.30E+13
+1/9/2019,UE Bank,Top Up,19714270,1.48E+13
+1/10/2019,UE Bank,Top Up,21318536,1.73E+13
+1/11/2019,UE Bank,Top Up,20891760,1.68E+13
+1/12/2019,UE Bank,Top Up,23427441,1.70E+13
+1/1/2020,UE Bank,Top Up,21647912,1.57E+13
+1/2/2020,UE Bank,Top Up,22070716,1.54E+13
+1/3/2020,UE Bank,Top Up,20177787,1.61E+13
+1/4/2020,UE Bank,Top Up,9046053,1.47E+13
+1/5/2020,UE Bank,Top Up,8743202,1.69E+13
+1/6/2020,UE Bank,Top Up,12881106,1.61E+13
+1/7/2020,UE Bank,Top Up,15678594,1.79E+13
+1/8/2020,UE Bank,Top Up,16222788,1.88E+13
+1/9/2020,UE Bank,Top Up,14868230,2.06E+13
+1/10/2020,UE Bank,Top Up,16445210,2.29E+13
+1/11/2020,UE Bank,Top Up,17395764,2.43E+13
+1/12/2020,UE Bank,Top Up,18184473,2.72E+13
+1/1/2021,UE Bank,Top Up,16538397,2.57E+13
+1/2/2021,UE Bank,Top Up,16119121,2.32E+13
+1/3/2021,UE Bank,Top Up,18072960,2.68E+13
+1/4/2021,UE Bank,Top Up,19065504,2.92E+13
+1/5/2021,UE Bank,Top Up,18484197,3.75E+13
+1/6/2021,UE Bank,Top Up,19125045,3.09E+13
+1/7/2021,UE Bank,Top Up,14169946,3.32E+13
+1/8/2021,UE Bank,Top Up,10995929,3.28E+13
+1/9/2021,UE Bank,Top Up,19373468,3.40E+13
+1/10/2021,UE Bank,Top Up,22154914,2.64E+13
+1/11/2021,UE Bank,Top Up,21406098,2.76E+13
+1/12/2021,UE Bank,Top Up,23969255,2.96E+13
+1/1/2022,UE Bank,Top Up,20779665,2.71E+13
+1/2/2022,UE Bank,Top Up,16365996,2.63E+13
+1/3/2022,UE Bank,Top Up,21765362,3.03E+13
+1/4/2022,UE Bank,Top Up,20180431,3.43E+13
+1/5/2022,UE Bank,Top Up,22205773,3.08E+13
+1/6/2022,UE Bank,Top Up,21821753,3.24E+13
+1/7/2022,UE Bank,Top Up,26631473,3.62E+13
+1/8/2022,UE Bank,Top Up,25652766,3.57E+13
+1/9/2022,UE Bank,Top Up,25051767,3.59E+13
+1/10/2022,UE Bank,Top Up,27238140,6.55E+13
+1/11/2022,UE Bank,Top Up,26370677,6.66E+13
+1/12/2022,UE Bank,Top Up,29164244,7.28E+13
+1/1/2023,UE Bank,Top Up,27757294,6.88E+13
+1/2/2023,UE Bank,Top Up,26688730,6.46E+13
+1/3/2023,UE Bank,Top Up,28901274,7.34E+13
+1/4/2023,UE Bank,Top Up,29013989,7.77E+13
+1/5/2023,UE Bank,Top Up,29805178,7.71E+13
+1/6/2023,UE Bank,Top Up,30101088,7.83E+13
+1/7/2023,UE Bank,Top Up,32129282,8.17E+13
+1/8/2023,UE Bank,Top Up,31121987,8.04E+13
+1/9/2023,UE Bank,Top Up,31549805,8.03E+13
+1/1/2019,UE Bank,Transfer,3399374,4.84E+11
+1/2/2019,UE Bank,Transfer,3483954,5.12E+11
+1/3/2019,UE Bank,Transfer,3734581,5.80E+11
+1/4/2019,UE Bank,Transfer,3191196,5.11E+11
+1/5/2019,UE Bank,Transfer,3390628,5.74E+11
+1/6/2019,UE Bank,Transfer,2438426,3.95E+11
+1/7/2019,UE Bank,Transfer,3645955,5.68E+11
+1/8/2019,UE Bank,Transfer,3802343,6.14E+11
+1/9/2019,UE Bank,Transfer,3320412,5.23E+11
+1/10/2019,UE Bank,Transfer,3246565,5.18E+11
+1/11/2019,UE Bank,Transfer,3226669,5.26E+11
+1/12/2019,UE Bank,Transfer,2670797,4.36E+11
+1/1/2020,UE Bank,Transfer,2343087,3.70E+11
+1/2/2020,UE Bank,Transfer,2024993,3.05E+11
+1/3/2020,UE Bank,Transfer,1914686,3.04E+11
+1/4/2020,UE Bank,Transfer,1652738,2.49E+11
+1/5/2020,UE Bank,Transfer,1653386,2.49E+11
+1/6/2020,UE Bank,Transfer,1309796,2.13E+11
+1/7/2020,UE Bank,Transfer,1397161,2.19E+11
+1/8/2020,UE Bank,Transfer,1428120,2.41E+11
+1/9/2020,UE Bank,Transfer,1438428,2.49E+11
+1/10/2020,UE Bank,Transfer,1330430,2.22E+11
+1/11/2020,UE Bank,Transfer,1246091,2.12E+11
+1/12/2020,UE Bank,Transfer,1288339,2.30E+11
+1/1/2021,UE Bank,Transfer,1216489,2.14E+11
+1/2/2021,UE Bank,Transfer,1124681,1.99E+11
+1/3/2021,UE Bank,Transfer,1127002,2.02E+11
+1/4/2021,UE Bank,Transfer,1002609,1.91E+11
+1/5/2021,UE Bank,Transfer,1007844,2.07E+11
+1/6/2021,UE Bank,Transfer,1117182,2.09E+11
+1/7/2021,UE Bank,Transfer,1271273,2.35E+11
+1/8/2021,UE Bank,Transfer,1400489,2.35E+11
+1/9/2021,UE Bank,Transfer,1391071,2.30E+11
+1/10/2021,UE Bank,Transfer,1495368,2.55E+11
+1/11/2021,UE Bank,Transfer,1269075,2.15E+11
+1/12/2021,UE Bank,Transfer,1327796,2.36E+11
+1/1/2022,UE Bank,Transfer,1183682,2.00E+11
+1/2/2022,UE Bank,Transfer,1036528,1.83E+11
+1/3/2022,UE Bank,Transfer,1089329,1.98E+11
+1/4/2022,UE Bank,Transfer,1034441,2.17E+11
+1/5/2022,UE Bank,Transfer,869072,1.67E+11
+1/6/2022,UE Bank,Transfer,951759,1.76E+11
+1/7/2022,UE Bank,Transfer,905943,1.79E+11
+1/8/2022,UE Bank,Transfer,960673,1.87E+11
+1/9/2022,UE Bank,Transfer,974401,1.88E+11
+1/10/2022,UE Bank,Transfer,974775,1.90E+11
+1/11/2022,UE Bank,Transfer,969345,1.88E+11
+1/12/2022,UE Bank,Transfer,1037458,2.13E+11
+1/1/2023,UE Bank,Transfer,1065751,2.05E+11
+1/2/2023,UE Bank,Transfer,929683,1.80E+11
+1/3/2023,UE Bank,Transfer,1074976,2.29E+11
+1/4/2023,UE Bank,Transfer,1045599,2.51E+11
+1/5/2023,UE Bank,Transfer,1081700,2.18E+11
+1/6/2023,UE Bank,Transfer,1086219,2.19E+11
+1/7/2023,UE Bank,Transfer,1179235,2.46E+11
+1/8/2023,UE Bank,Transfer,1242078,2.53E+11
+1/9/2023,UE Bank,Transfer,1230554,2.49E+11
+1/1/2019,UE Bank,Tunai,1749512,3.45E+11
+1/2/2019,UE Bank,Tunai,1701635,3.62E+11
+1/3/2019,UE Bank,Tunai,1821363,4.08E+11
+1/4/2019,UE Bank,Tunai,1534850,3.54E+11
+1/5/2019,UE Bank,Tunai,1524246,3.85E+11
+1/6/2019,UE Bank,Tunai,1061797,2.63E+11
+1/7/2019,UE Bank,Tunai,1605053,3.65E+11
+1/8/2019,UE Bank,Tunai,1675491,3.99E+11
+1/9/2019,UE Bank,Tunai,1513172,3.43E+11
+1/10/2019,UE Bank,Tunai,1502862,3.28E+11
+1/11/2019,UE Bank,Tunai,1472591,3.30E+11
+1/12/2019,UE Bank,Tunai,1222355,2.64E+11
+1/1/2020,UE Bank,Tunai,1055354,2.08E+11
+1/2/2020,UE Bank,Tunai,931492,1.77E+11
+1/3/2020,UE Bank,Tunai,1755108,3.38E+11
+1/4/2020,UE Bank,Tunai,716208,1.50E+11
+1/5/2020,UE Bank,Tunai,1179032,2.51E+11
+1/6/2020,UE Bank,Tunai,593987,1.10E+11
+1/7/2020,UE Bank,Tunai,623597,1.08E+11
+1/8/2020,UE Bank,Tunai,587656,1.06E+11
+1/9/2020,UE Bank,Tunai,575326,1.05E+11
+1/10/2020,UE Bank,Tunai,523717,9.86E+10
+1/11/2020,UE Bank,Tunai,467159,8.84E+10
+1/12/2020,UE Bank,Tunai,452338,9.25E+10
+1/1/2021,UE Bank,Tunai,443910,8.63E+10
+1/2/2021,UE Bank,Tunai,397885,7.64E+10
+1/3/2021,UE Bank,Tunai,377843,7.43E+10
+1/4/2021,UE Bank,Tunai,293090,6.48E+10
+1/5/2021,UE Bank,Tunai,259677,6.80E+10
+1/6/2021,UE Bank,Tunai,316758,7.19E+10
+1/7/2021,UE Bank,Tunai,358972,8.12E+10
+1/8/2021,UE Bank,Tunai,398082,8.05E+10
+1/9/2021,UE Bank,Tunai,404157,8.05E+10
+1/10/2021,UE Bank,Tunai,413637,8.43E+10
+1/11/2021,UE Bank,Tunai,407148,8.59E+10
+1/12/2021,UE Bank,Tunai,420054,9.31E+10
+1/1/2022,UE Bank,Tunai,386381,8.10E+10
+1/2/2022,UE Bank,Tunai,325412,6.88E+10
+1/3/2022,UE Bank,Tunai,331306,7.03E+10
+1/4/2022,UE Bank,Tunai,280626,7.32E+10
+1/5/2022,UE Bank,Tunai,217921,5.46E+10
+1/6/2022,UE Bank,Tunai,271346,6.11E+10
+1/7/2022,UE Bank,Tunai,269928,6.17E+10
+1/8/2022,UE Bank,Tunai,280039,6.11E+10
+1/9/2022,UE Bank,Tunai,284905,6.21E+10
+1/10/2022,UE Bank,Tunai,281930,6.14E+10
+1/11/2022,UE Bank,Tunai,275945,5.99E+10
+1/12/2022,UE Bank,Tunai,264261,6.00E+10
+1/1/2023,UE Bank,Tunai,254586,5.54E+10
+1/2/2023,UE Bank,Tunai,204482,4.59E+10
+1/3/2023,UE Bank,Tunai,215912,4.83E+10
+1/4/2023,UE Bank,Tunai,163179,4.54E+10
+1/5/2023,UE Bank,Tunai,193281,4.33E+10
+1/6/2023,UE Bank,Tunai,193756,4.32E+10
+1/7/2023,UE Bank,Tunai,219915,5.04E+10
+1/8/2023,UE Bank,Tunai,233041,5.10E+10
+1/9/2023,UE Bank,Tunai,213478,4.46E+10
+1/1/2019,UE Bank,Redeem,8319,2092582937
+1/2/2019,UE Bank,Redeem,6238,1529210734
+1/3/2019,UE Bank,Redeem,6950,1706716773
+1/4/2019,UE Bank,Redeem,7022,1637115670
+1/5/2019,UE Bank,Redeem,7983,1981650000
+1/6/2019,UE Bank,Redeem,7180,2018945229
+1/7/2019,UE Bank,Redeem,8478,2278150000
+1/8/2019,UE Bank,Redeem,7979,1963530000
+1/9/2019,UE Bank,Redeem,8022,2401840000
+1/10/2019,UE Bank,Redeem,8576,2134160000
+1/11/2019,UE Bank,Redeem,7797,2211540000
+1/12/2019,UE Bank,Redeem,9189,2999230000
+1/1/2020,UE Bank,Redeem,10383,3359190000
+1/2/2020,UE Bank,Redeem,10277,2702190000
+1/3/2020,UE Bank,Redeem,9142,2556940000
+1/4/2020,UE Bank,Redeem,2540,801010000
+1/5/2020,UE Bank,Redeem,2518,698670000
+1/6/2020,UE Bank,Redeem,2505,797190000
+1/7/2020,UE Bank,Redeem,2684,831610000
+1/8/2020,UE Bank,Redeem,5303,1723250000
+1/9/2020,UE Bank,Redeem,7529,2130710000
+1/10/2020,UE Bank,Redeem,5353,1791540000
+1/11/2020,UE Bank,Redeem,5829,2478180000
+1/12/2020,UE Bank,Redeem,6273,2596110000
+1/1/2021,UE Bank,Redeem,6431,3810250000
+1/2/2021,UE Bank,Redeem,6001,2481460000
+1/3/2021,UE Bank,Redeem,5038,1728770000
+1/4/2021,UE Bank,Redeem,5296,1748930000
+1/5/2021,UE Bank,Redeem,4900,1593850000
+1/6/2021,UE Bank,Redeem,4856,1601510000
+1/7/2021,UE Bank,Redeem,4844,1600610000
+1/8/2021,UE Bank,Redeem,4826,1580140000
+1/9/2021,UE Bank,Redeem,5046,1718330000
+1/10/2021,UE Bank,Redeem,4929,1650340000
+1/11/2021,UE Bank,Redeem,5091,1787840000
+1/12/2021,UE Bank,Redeem,5268,1856440000
+1/1/2022,UE Bank,Redeem,29971,1674010677
+1/2/2022,UE Bank,Redeem,756,331831776
+1/3/2022,UE Bank,Redeem,560,226162703
+1/4/2022,UE Bank,Redeem,618,184504732
+1/5/2022,UE Bank,Redeem,779,251549102
+1/6/2022,UE Bank,Redeem,850,256157949
+1/7/2022,UE Bank,Redeem,812,243455297
+1/8/2022,UE Bank,Redeem,1025,341838102
+1/9/2022,UE Bank,Redeem,1026,252033864
+1/10/2022,UE Bank,Redeem,1105,318749274
+1/11/2022,UE Bank,Redeem,1165,365158979
+1/12/2022,UE Bank,Redeem,1154,366131123
+1/1/2023,UE Bank,Redeem,1281,421695245
+1/2/2023,UE Bank,Redeem,1129,291114382
+1/3/2023,UE Bank,Redeem,1125,276959348
+1/4/2023,UE Bank,Redeem,834,226938765
+1/5/2023,UE Bank,Redeem,1449,410661757
+1/6/2023,UE Bank,Redeem,1204,388024681
+1/7/2023,UE Bank,Redeem,1853,519424437
+1/8/2023,UE Bank,Redeem,1442,349882574
+1/9/2023,UE Bank,Redeem,1358,345516753
+1/1/2019,UE Bank,Belanja,162054128,2.09E+12
+1/2/2019,UE Bank,Belanja,176398310,2.22E+12
+1/3/2019,UE Bank,Belanja,213010836,2.78E+12
+1/4/2019,UE Bank,Belanja,237314293,2.73E+12
+1/5/2019,UE Bank,Belanja,178993610,2.55E+12
+1/6/2019,UE Bank,Belanja,178984334,2.79E+12
+1/7/2019,UE Bank,Belanja,214543684,3.12E+12
+1/8/2019,UE Bank,Belanja,207316478,2.88E+12
+1/9/2019,UE Bank,Belanja,179693597,2.64E+12
+1/10/2019,UE Bank,Belanja,189262251,2.93E+12
+1/11/2019,UE Bank,Belanja,182058383,2.96E+12
+1/12/2019,UE Bank,Belanja,198062699,3.31E+12
+1/1/2020,UE Bank,Belanja,182611818,3.09E+12
+1/2/2020,UE Bank,Belanja,174265453,3.02E+12
+1/3/2020,UE Bank,Belanja,150913324,2.77E+12
+1/4/2020,UE Bank,Belanja,91640406,1.76E+12
+1/5/2020,UE Bank,Belanja,86244657,1.45E+12
+1/6/2020,UE Bank,Belanja,125760648,2.02E+12
+1/7/2020,UE Bank,Belanja,165127888,2.53E+12
+1/8/2020,UE Bank,Belanja,156584827,2.55E+12
+1/9/2020,UE Bank,Belanja,136183642,2.28E+12
+1/10/2020,UE Bank,Belanja,147343165,2.50E+12
+1/11/2020,UE Bank,Belanja,150178658,2.64E+12
+1/12/2020,UE Bank,Belanja,155368630,2.77E+12
+1/1/2021,UE Bank,Belanja,134814478,2.34E+12
+1/2/2021,UE Bank,Belanja,118392506,2.14E+12
+1/3/2021,UE Bank,Belanja,143897963,2.42E+12
+1/4/2021,UE Bank,Belanja,142904603,2.47E+12
+1/5/2021,UE Bank,Belanja,134497965,2.27E+12
+1/6/2021,UE Bank,Belanja,139737566,2.47E+12
+1/7/2021,UE Bank,Belanja,94170933,1.80E+12
+1/8/2021,UE Bank,Belanja,114070275,2.12E+12
+1/9/2021,UE Bank,Belanja,147845113,2.53E+12
+1/10/2021,UE Bank,Belanja,165125407,2.88E+12
+1/11/2021,UE Bank,Belanja,170985779,2.83E+12
+1/12/2021,UE Bank,Belanja,198040891,3.18E+12
+1/1/2022,UE Bank,Belanja,163254188,2.93E+12
+1/2/2022,UE Bank,Belanja,127787252,2.36E+12
+1/3/2022,UE Bank,Belanja,130027882,2.32E+12
+1/4/2022,UE Bank,Belanja,169786502.7,3.45E+12
+1/5/2022,UE Bank,Belanja,175484085.8,4.04E+12
+1/6/2022,UE Bank,Belanja,179134649.3,3.57E+12
+1/7/2022,UE Bank,Belanja,190566889,3.54E+12
+1/8/2022,UE Bank,Belanja,185695601,3.23E+12
+1/9/2022,UE Bank,Belanja,182227919,3.20E+12
+1/10/2022,UE Bank,Belanja,193372214,3.40E+12
+1/11/2022,UE Bank,Belanja,187289317,3.39E+12
+1/12/2022,UE Bank,Belanja,204863923,3.74E+12
+1/1/2023,UE Bank,Belanja,194817723,3.56E+12
+1/2/2023,UE Bank,Belanja,179853612,3.16E+12
+1/3/2023,UE Bank,Belanja,199274781,3.53E+12
+1/4/2023,UE Bank,Belanja,184495272,3.71E+12
+1/5/2023,UE Bank,Belanja,207547485.2,3.79E+12
+1/6/2023,UE Bank,Belanja,200758851,3.70E+12
+1/7/2023,UE Bank,Belanja,215007955,4.01E+12
+1/8/2023,UE Bank,Belanja,216332225,3.77E+12
+1/9/2023,UE Bank,Belanja,206434555,3.63E+12
